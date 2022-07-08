@@ -19,7 +19,7 @@ plot(runif(10), xlab = "橫軸", ylab = "縱軸", main = "測試")
 ```
 
 <figure>
-<img src="00001c.png" title="中文字型無法顯示" alt="中文字型無法顯示"
+<img src="images/00001c.png" title="中文字型無法顯示" alt="中文字型無法顯示"
 width="484" />
 <figcaption>中文字型無法顯示</figcaption>
 </figure>
@@ -92,4 +92,4 @@ Sys.setlocale(category = "LC_ALL", locale = "zh_TW.UTF-8")
     plot(runif(10), xlab = "橫軸", ylab = "縱軸", main = "測試")
     ```
 
-    ![](00002c.png)
+    ![](images/00002c.png)
